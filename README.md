@@ -70,6 +70,8 @@ macOS / Linux / Windows
 
 Install dependencies:
 python3 -m pip install reportlab pillow imagehash
+
+
 ▶️ Usage
 python3 asset_similarity_with_images_pdf.py /path/to/Assets.xcassets
 
